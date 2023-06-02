@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/luizfernandoschmitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luizfernandoschmitt" height="30" width="40" /></a>
-<a href="https://instagram.com/@pythonistasch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[@pythonistasch](https://www.instagram.com/pythonistasch/)" height="30" width="40" /></a>
+<a href="https://instagram.com/@pythonistasch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pythonistasch/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/luiz_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="luiz_fernando" height="30" width="40" /></a>
 </p>
 
