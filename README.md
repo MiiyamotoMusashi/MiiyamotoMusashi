@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Luiz Fernando Schmitt Filho</h1>
 <h3 align="center">Apaixonado por python, I.A, machine learning e programação no geral</h3>
 
-- 🌱 Atualmente estou aprendendo **Ciência de dados e Automação web**
+- 🌱 Atualmente estou aprendendo **Desenvolvimento Web**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MiiyamotoMusashi?tab=repositories](https://github.com/MiiyamotoMusashi?tab=repositories)
 
