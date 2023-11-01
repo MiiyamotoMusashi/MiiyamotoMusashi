@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MiiyamotoMusashi?tab=repositories](https://github.com/MiiyamotoMusashi?tab=repositories)
 
-- 💬 Me pergunte sobre **Python e Ciência de Dados**
+- 💬 Me pergunte sobre **Python e GML**
 
 - 📫 Como me alcançar **luizfernandoschmittfilho692@gmail.com**
 
