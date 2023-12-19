@@ -1,18 +1,16 @@
 # Hi there, I'm Schmitt 👋
 
 ```python
-class SoftwareEngineer:
+class Programmer:
     def __init__(self):
-        self.name = "Estevao Fonseca"
-        self.roles = ["Software Engineer", "Book Author", "Python Enthusiast"]
-        self.education = "Engineering at Universidade de Brasília"
-        self.code_languages = ["Python", "Java", "C", "JavaScript"]
-        self.cloud_stack = ["lambda", "step functions", "dynamodb", "S3"]
+        self.name = "Luiz Fernando Schmitt Filho"
+        self.roles = ["Student"]
+        self.code_languages = ["Python","C", "Game Maker Language"]
 
     def say_hi(self):
         print("Thanks for dropping by!")
 
-me = SoftwareEngineer()
+me = Programmer()
 me.say_hi()
 ```
 
